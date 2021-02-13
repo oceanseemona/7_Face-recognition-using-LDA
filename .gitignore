@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+.ipynb_checkpoints/
+.DS_Store
+
