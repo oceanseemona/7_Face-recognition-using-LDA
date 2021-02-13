@@ -1,8 +1,4 @@
-# Object file
-*.o
 
-# Ada Library Information
-*.ali
 .ipynb_checkpoints/
 .DS_Store
 
