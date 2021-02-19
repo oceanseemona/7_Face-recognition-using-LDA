@@ -1,4 +1,4 @@
-Assignment 7 : Face Recognition using Linear Discriminant Analysis
+Assignment : Face Recognition using Linear Discriminant Analysis
 
 OBJECTIVE:
 
@@ -25,7 +25,7 @@ If Python is not installed yet, Anaconda distribution of Python can also be used
 
 OUTPUT:
 
-A curve between accuracy and m (direction) has been displayed, while varying the value of m.
+A curve between accuracy and m (best components) has been displayed, while varying the value of m.
 
 Submitted by:-
 
